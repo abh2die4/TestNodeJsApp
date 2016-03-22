@@ -1,13 +1,7 @@
 {
-  "name": "server",
+  "name": "TestNodeJsApp",
   "version": "1.0.0",
-  "description": "a really cool app",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "",
+  "description": "a really cool app",   
   "engines": {
     "node": "4.1.1"
   },
